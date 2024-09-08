@@ -11,7 +11,7 @@
 + MS Excel
 
 # Cleaning and Analyzing using Power Query:
--Open Excel and connect to HR data.
+- Open Excel and connect to HR data.
 -Use Power Query to clean and transform the data.
 -Applied all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types.
 -Create a parameter to select the desired data based on a specific condition.
